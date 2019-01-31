@@ -1,0 +1,24 @@
+{
+  "name": "scrollmagic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalin2479/scrollmagic.git"
+  },
+  "author": "Carlos Espinoza <carlos.espinoza24g@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalin2479/scrollmagic/issues"
+  },
+  "homepage": "https://github.com/kalin2479/scrollmagic#readme",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "gsap": "^2.0.2",
+    "jquery": "^3.3.1"
+  }
+}
